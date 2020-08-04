@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
 
 ## Getting Started
@@ -19,3 +20,6 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
         npm start
 
 Your canvas piece should open up automatically at http://localhost:3000 and you should see 'HTML CANVAS BOILERPLATE' on hover.
+=======
+
+>>>>>>> 58fccade8ad699eb009b8cc80dc8043a72d29f9f
