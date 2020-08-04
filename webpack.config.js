@@ -37,5 +37,8 @@ module.exports = {
     })
   ],
   watch: true,
-  devtool: 'source-map'
+  devServer: {
+    // ...
+    watchContentBase: true
+  }
 }
